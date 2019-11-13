@@ -1,0 +1,23 @@
+600x600
+
+
+     
+        10.0
+          |
+          |
+          |
+-10.0 --- 0 --- 10.0
+          |
+          |
+          |
+       -10.0
+
+[plot-fn] [plot-step] [plot-color] [Clear]
+[fn-input......]
+
+
+gtk3-widget-factory &
+
+
+https://developer.gnome.org/gtk3/stable/GtkBuilder.html#gtk-builder-connect-signals
+
